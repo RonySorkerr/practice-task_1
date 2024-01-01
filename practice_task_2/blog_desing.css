@@ -1,0 +1,38 @@
+.hd{
+    color: teal;
+    text-align: center;
+    text-decoration: underline;
+}
+#title{
+    text-align: center;
+    color:rgb(0, 47, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#paragraph{
+    text-align: justify;
+}
+
+.image{
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+
+.inline p{
+    display: inline;
+    background-color: springgreen;
+}
+button{
+    display: block;
+    background-color: rgb(2, 3, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 20px;
+    cursor: pointer;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    margin: auto;
+    margin-top: 20px;
+}
+/*  */
