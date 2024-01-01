@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+#u-list{
+    color: red;
+    margin: 20px;
+    background-color: cadetblue;
+    color: white;
+    padding: 10px;
+}
+
+#u-list ul li{
+    list-style-type:lower-greek;
+}
